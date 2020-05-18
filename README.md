@@ -34,4 +34,12 @@ para que as crianças tenham uma experiência de aprendizado mais descontraída.
 
 <h3>NOSSO PROJETO</h3>
 <p>O projeto em desenvolvimento consiste em auxiliar as crianças no processo de
-alfabetização, permitindo que seu dia a dia seja mais dinâmico durante a tragetória de aprendizagem. Com isso buscamos utilizar a tecnologia em Realidade Aumentada, com o intuito de otimizar e trazer novas formas de se aplicar e receber o conhecimento nesse âmbito educacional.</p>
+alfabetização, permitindo que seu dia a dia seja mais dinâmico durante a tragetória de aprendizagem. Com isso buscamos utilizar a tecnologia em Realidade Aumentada, com o intuito de otimizar e trazer novas formas de se aplicar e receber o conhecimento nesse âmbito educacional.<br>Pensando nesse processo o projeto vai auxiliar a criança na formação de palavras, bem como na correção de possíveis erros durante a tragetória de experiência com a tecnologia e também em axuliando em seus acertos, parabenizando-o pela sua evolução em rumo ao conhecimento.</p>
+
+<h3>RESULTADOS ALCANÇADOS</h3>
+<p>Atualmente o projeto esta no processo de reconhecimento das posições das letras que compõem o objeto selecionado, bem como a detecção dos erros e acertos dessas posições na formação das palavras.</p>
+<p>Veja como esta a interface e o funcionamento do sistema:</p>
+
+![demonstracao](https://user-images.githubusercontent.com/59921213/82172266-14d64f00-98a0-11ea-947a-e068a87ecd4b.png)
+
+[**Clique aqui** para ver a demonstração.](https://youtu.be/o6oBxYciyBU)
